@@ -1,8 +1,12 @@
 body {
-    background: rgb(108, 151, 231);
+    background: rgb(211, 216, 224);
 }
 
 a {
     color: blue;
-    padding: 5px;
+    padding: 0 0 10px 0;
+}
+h {
+    font-size: 14;
+    font-family: Arial;
 }
