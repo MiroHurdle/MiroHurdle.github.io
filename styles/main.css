@@ -1,6 +1,4 @@
-body {
-    background-color: red;
-}
+
 
 a {
     color: blue;
@@ -8,13 +6,17 @@ a {
 }
 
 .color {
-    background-color: #CCD7E4;
+    background-color: #5C946E;
 }
 
 .header-color {
-    background-color: #5C946E;
+    background-color: #CCD7E4;
 }
 
 .text-c {
     color: #706C61;
+}
+
+.color-2 {
+    background-color: #99C5B5;
 }
