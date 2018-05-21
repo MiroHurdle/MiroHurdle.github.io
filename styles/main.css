@@ -1,0 +1,28 @@
+body {
+    background: rgb(151, 196, 211);
+    padding-top: 10px;
+}
+
+.outline {
+    border-radius: 25px;
+    border: 2px solid rgb(30, 111, 138);
+    padding: 20px;
+    background: rgb(175, 194, 187);
+}
+
+.space {
+    border-radius: 25px;
+}
+
+@media screen and (max-width: 750px){
+    .img-big {
+    display: none;
+}
+@media screen and (max-width: 625px){
+    .container {
+        width: 90%;
+    }
+    .outline {
+        border: none;
+    }
+}
