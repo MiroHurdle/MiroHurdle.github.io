@@ -3,10 +3,64 @@ body {
     padding-top: 10px;
 }
 
+.comp2 {
+    background: #CA61C3;
+}
+
+.comp3 {
+    background: #6C6EA0;
+}
+
+.comp4 {
+    background: #A44A3F;
+}
+
+.comp5 {
+    background: #1F2041;
+}
+
+.comp6 {
+    background: #C589E8;
+}
+
+.comp7 {
+    background: rgb(151, 196, 211);
+}
+
+
 .outline {
     border-radius: 25px;
     border: 2px solid rgb(30, 111, 138);
     padding: 20px;
+    margin-top: 20px;
+}
+
+.color1 {
+    background: rgb(175, 194, 187);
+}
+
+.color2 {
+    background: #EE85B5;
+}
+
+.color3 {
+    background: #C1CAD6;
+}
+
+.color4 {
+    background: #F19C79;
+}
+
+.color5 {
+    background: #4B3F72;
+    color: white;
+}
+
+.color6 {
+    background: #ECFFF8;
+}
+
+.color7 {
     background: rgb(175, 194, 187);
 }
 
